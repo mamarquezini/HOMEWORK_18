@@ -38,3 +38,8 @@
     padding: 25%;
     height: 100px;
 }
+.flexContainer {
+    display: flex;
+    width: 33%;
+    
+}
